@@ -4,7 +4,7 @@ This script will help to gather current running firmware from linux OS. (RHEL/CE
 
 # How - To
 
-$ bash hp_proliant_firmware_report.sh
+$ bash hp-proliant-firmware-report.sh
 
 Hardware Vendor      : HP                  
 Hardware Product     : ProLiant DL380p Gen8              
